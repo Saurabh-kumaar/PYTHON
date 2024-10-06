@@ -295,3 +295,22 @@
 # print(str.count("$"))   #output is  2 
 
 
+## Conditional Statements 
+
+# if-elif-else (syntax)   
+
+# age = 45
+
+# if(age >= 45): 
+#   print("he is big") 
+
+# light = "green "
+
+# if(light == "red"):
+#   print("stop")
+# elif(light == "green"):
+#   print("go")
+# elif(light == "yellow"):
+#   print("look")
+
+# print("end of code") 
