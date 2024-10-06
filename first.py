@@ -256,7 +256,7 @@
 # print(str[-8:-1])     #output :- llo guy  
 
 
-# String Functions 
+## String Functions 
 
 # endswith("er")          #return true if string end with substr
 
@@ -264,4 +264,18 @@
 # print(str.endswith("you"))
 
 
+# str.replace(old,new)  #replace all occurrence of old  
 
+# str = "hello everyone what are you doing " 
+# print(str.replace("what","kya"))   # its use for replace any word 
+
+
+# find(word) :-  return 1st index of 1st occurrer 
+
+# str = "hello everyone what are you doing"
+# print(str.find("w"))    #output is 15 . 
+
+# count("word")  :- how many came 
+
+# str = "hello everyone what are you doing"
+# print(str.count("o"))     # output is 4 
