@@ -289,6 +289,9 @@
 # firstName = "raju bhai"
 # print(len(firstName))
 
+# wap to find the occurrence of '$' in a String. 
 
+# str = "hello everyone what $ are you doing  $99.09" 
+# print(str.count("$"))   #output is  2 
 
 
