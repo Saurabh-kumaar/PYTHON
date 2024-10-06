@@ -152,7 +152,10 @@
 # name = input("enter your age: ")
 # print("you entered", name) 
 
-#* int ( input ()) #int 
+#* int ( input ()) #int # a = int(input("it is first number"))
+# b = int(input("it is second number")) 
+
+# print( a >= b )  #check the boolean  
 #*float (input())  #float 
 
 
@@ -239,6 +242,35 @@
 # str = "hellomy friend"
 # ch = str[6]  # it is denoted whom number you know by indexing 
 # print (ch)  #output :- y 
+
+#Slicing :-   Accessing parts of a string  
+
+# str[ starting_idx : ending _idx]   #ending idx is not included 
+
+# str = "munna bhai "
+# print(str[6:11])    #output :- unn 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
