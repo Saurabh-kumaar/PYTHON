@@ -253,30 +253,15 @@
 # Negative index :- backward count -3: -4  
 
 # str ="hello guys"
-# print(str[-8:-1])     #output :- llo guy 
+# print(str[-8:-1])     #output :- llo guy  
+
+
+# String Functions 
+
+# endswith("er")          #return true if string end with substr
+
+# str = "Hello to all of you"
+# print(str.endswith("you"))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
