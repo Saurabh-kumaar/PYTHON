@@ -342,3 +342,18 @@
 # print("grade of the student ->",grade) 
 
 # *************************************************************************************** 
+
+
+# nesting 
+
+# WAP to check if a number entered by the user is odd or even. 
+
+# str = int(input("entered a number : ")) 
+# num = 12 
+
+# if( num%2 == 0 ):
+#   print("even")
+# else:
+#   print("odd")
+
+# **********************************************************************
