@@ -250,7 +250,10 @@
 # str = "munna bhai "
 # print(str[6:11])    #output :- unn 
  
+# Negative index :- backward count -3: -4  
 
+# str ="hello guys"
+# print(str[-8:-1])     #output :- llo guy 
 
 
 
