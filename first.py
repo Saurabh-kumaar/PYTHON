@@ -279,3 +279,16 @@
 
 # str = "hello everyone what are you doing"
 # print(str.count("o"))     # output is 4 
+
+
+# #  to input user's first name & print its length. 
+
+# name = input(" enter your name : ")
+# print("length of your name is", len(name))
+
+# firstName = "raju bhai"
+# print(len(firstName))
+
+
+
+
