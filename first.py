@@ -225,7 +225,7 @@
 # str1 ="hello"
 # str2 = "world" 
 
-# print(str1+str2) # helloworld 
+# print(str1+str2) # output:  helloworld 
 
 # length of str 
 
@@ -233,11 +233,13 @@
 # print(len(str1)) # len used for count value of string 
 
 
+
 # indexing :-  index - position write 
 
 # str = "hellomy friend"
-# ch = str[5]  # it is denoted whom number you know by indexing 
-# print (ch) 
+# ch = str[6]  # it is denoted whom number you know by indexing 
+# print (ch)  #output :- y 
+
 
 
 
