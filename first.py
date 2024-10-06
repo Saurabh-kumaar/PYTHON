@@ -304,13 +304,23 @@
 # if(age >= 45): 
 #   print("he is big") 
 
-# light = "green "
+# light = "yellow"
 
 # if(light == "red"):
 #   print("stop")
 # elif(light == "green"):
 #   print("go")
 # elif(light == "yellow"):
-#   print("look")
+#    print("look")
+# else :
+#     print("light is broken") 
+
 
 # print("end of code") 
+
+# age = 23
+
+# if(age >= 18): 
+#   print("teen")
+# else:
+#   print("small") 
