@@ -374,7 +374,12 @@
 # print(str.count("$")) 
 
 
+# str = "saurabh"
+# print(str[4])  #output :- a
 
+
+# str = "hello world"
+# print(str[1:8])   #output:- ello wo 
 
 
 
