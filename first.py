@@ -230,10 +230,13 @@
 
 # print(str1+str2) # output:  helloworld 
 
+
+
 # length of str 
 
 # str1 = "okmydear" 
 # print(len(str1)) # len used for count value of string 
+
 
 
 
@@ -351,9 +354,15 @@
 # str = int(input("entered a number : ")) 
 # num = 12 
 
-# if( num%2 == 0 ):
+# if( num % 2 == 0 ):
 #   print("even")
 # else:
 #   print("odd")
 
 # **********************************************************************
+
+# print name by user and its length 
+
+# name = input("enter your name : ")
+
+# print("length of your name is", len(name))
