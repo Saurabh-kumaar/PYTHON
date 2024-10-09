@@ -361,8 +361,33 @@
 
 # **********************************************************************
 
-# print name by user and its length 
+## print name by user and its length 
 
 # name = input("enter your name : ")
-
 # print("length of your name is", len(name))
+
+
+
+## wap to find occurrence of '$' in a string 
+
+# str = "hi, $Iam sjfl fajie dj $ djfjds $$89.0" 
+# print(str.count("$")) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
