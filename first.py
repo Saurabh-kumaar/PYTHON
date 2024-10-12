@@ -381,8 +381,8 @@
 # str = "hello world"
 # print(str[1:8])   #output:- ello wo 
 
-str = "hello brother what are you doing"
-print(len(str)) 
+# str = "hello brother what are you doing"
+# print(str.count("o"))
 
 
 
