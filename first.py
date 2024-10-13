@@ -384,7 +384,8 @@
 # str = "hello brother what are you doing"
 # print(str.count("o"))
 
-
+# str = "munna bhai"
+# print(str[4:9]) 
 
 
 
